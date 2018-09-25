@@ -1,0 +1,52 @@
+========================================
+CS/COE 1520 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment. Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Jason Weinberg
+
+Lecture section:  1010
+
+Recitation day and time:  Wednesday 1:30PM-2:20PM
+
+Assignment #:  Project 4
+
+Program due date:  7/30/2018
+
+Handed in date:  7/30/2018
+
+Source code file name(s):
+- budget.py
+- static/script.js
+- templates/base.html
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your project run without error?: Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?: N/A
+
+
+
+
+
+
+
+Additional comments to the grader: N/A
+
+
+
+
+
+
+

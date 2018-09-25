@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Budget App</title>
+		<script type="text/javascript" src="{{ url_for('static', filename='script.js') }}"></script>
+	</head>
+	<body>
+		<h3> Add new category: </h3>
+		<form name="categoriesForm">
+			Name:  <input type="text" id="categoryName" name="" value="" /><br />
+			Limit:  <input type="text" id="categoryLimit" name="" value="" /><br />
+			<input type="button" id="categoryButton" value="Add" />
+		</form>
+		<h3> Add new purchase: </h3>
+		<form name="purchasesForm">
+			Amount:  <input type="text" id="purchaseAmount" name="" value="" /><br />
+			Description:  <input type="text" id="purchaseDescription" name="" value="" /><br />
+			Date:  <input type="text" id="purchaseDate" name="" value="" /><br />
+			Category:  <input type="text" id="purchaseCategory" name="" value="" /><br />
+			<input type="button" id="purchaseButton" value="Add" />
+		</form>
+		<br />
+		<table id="categoriesTable">
+		</table>
+		<br />
+		<table id="purchasesTable">
+		</table>
+	</body>
+</html>
